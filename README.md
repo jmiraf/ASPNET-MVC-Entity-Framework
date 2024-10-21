@@ -1,3 +1,3 @@
-#ASP.NET MVC Entity Framework
+ASP.NET MVC Entity Framework
 
 Car Insurance project
